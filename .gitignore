@@ -3,7 +3,6 @@ __pycache__/
 *.pyc
 logs/
 output/
-Lib/
-Scripts/
-Include/
-pyvenv.cfg
+/Lib/
+/Include/
+/pyvenv.cfg
